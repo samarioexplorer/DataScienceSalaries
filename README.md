@@ -24,26 +24,26 @@ Column	Description
 
 Questions 
 
-# How many countries are in the dataset?
-# How many entries are there for non-US countries and the US?
-# What is the highest and lowest salary for US entries?
-# What is the highest and lowest salary for non-US entries?
-# What is the average salary for US and non-US countries?
-# What is the salary median for the US?
-# What is the average salary for entries by experience level?
-# What is the average salary for each year?
-# How many senior and executive positions are in the dataset for each year?
-# What is the difference in entries amount for each year?
-# How many remote/hybrid/office positions are in each group?
-# What group has the highest percentage of remote positions?
-# Does the remote option affect the salary?
-# What is the percentage of different experience positions working 100 remotely?
-# What is the percentage among different experience levels?
-# How many entries are there for different employment types and what is the average salary?
-# What is the percentage of different employment types for each group US vs. non-US?
-# How many different titles are there in the dataset and what data position is the most frequent?
-# Is the average salary higher for bigger companies? 
-# How many data-related positions there are by company size?
-# Does large companies have more people working in senior and executive positions than small companies?
-# How many people are in a different country than it is the company headquarters?
+1. How many countries are in the dataset?
+2. How many entries are there for non-US countries and the US?
+3. What is the highest and lowest salary for US entries?
+4. What is the highest and lowest salary for non-US entries?
+5. What is the average salary for US and non-US countries?
+6. What is the salary median for the US?
+7. What is the average salary for entries by experience level?
+8. What is the average salary for each year?
+9. How many senior and executive positions are in the dataset for each year?
+10. What is the difference in entries amount for each year?
+11. How many remote/hybrid/office positions are in each group?
+12. What group has the highest percentage of remote positions?
+13. Does the remote option affect the salary?
+14. What is the percentage of different experience positions working 100 remotely?
+15. What is the percentage among different experience levels?
+16. How many entries are there for different employment types and what is the average salary?
+17. What is the percentage of different employment types for each group US vs. non-US?
+18. How many different titles are there in the dataset and what data position is the most frequent?
+19. Is the average salary higher for bigger companies? 
+20. How many data-related positions there are by company size?
+21. Does large companies have more people working in senior and executive positions than small companies?
+22. How many people are in a different country than it is the company headquarters?
 
