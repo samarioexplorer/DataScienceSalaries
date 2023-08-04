@@ -46,5 +46,25 @@ Questions
 20. How many data-related positions there are by company size?
 21. Do large companies have more people working in senior and executive positions than small companies?
 22. How many people are in a different country than it is the company headquarters?
-23. Do bigger companies allow remote positions more than small or medium companies? 
+23. Do bigger companies allow remote positions more than small or medium companies?
+
+💭 Interesting insights
+1.	Salary from US companies is twice as high as salaries from non-US companies.
+2.	Median salary in USD for US companies is 135,000 USD and for non-US companies 62,689 USD.
+3.	The salary is comparable in US companies for all 3 years. For non-US companies, a jump in average salary is recorded in 2022.
+4.	75% of positions in US companies are remote and only 46% of positions in nonUS companies are remote.
+5.	Average salary for remote positions is slightly higher in US companies, for non-US companies the average salary is not affected by remote work conditions.
+6.	In the US 94% of executive-level positions are working remotely, for non-US only 30% of executive-level positions are working remotely.
+7.	Large non-US companies are more likely to offer a hybrid position. Small and medium nonUS and all sizes of US companies are prone to offer a remote position.
+8.	Full-time contract is the most common type of employment for both groups.
+9.	The most common job titles are data scientist, data engineer, and data analyst.
+10.	 Vast majority of employees are residents of the same country as the company location.
+
+🎯 Conclusion
+Even though the dataset contains only a limited amount of data, it still offers an interesting insight into data science employment conditions. The most interesting outcome is the huge difference between the salary that is offered by companies in the US and outside the US. On average it is 144,000 USD for US companies compared to 67,500 USD for companies located outside the US.
+A big difference can be also seen in the approach to remote work. In the US 75% of positions are remote. Companies outside the US slowly follow with the trend with only 46% remote positions and 31% hybrid positions. Those numbers clearly show that data science and analysis can be done remotely and that the idea of shorter/less frequent commutes is getting more and more popular. In fact, remote positions are often better paid (applies to US-based companies).
+In general, large companies are more likely to offer higher salaries compare to medium and small-size companies. A full-time contract is the most common type of employment.
+The numbers also show that the majority of employees (91,6%) reside in the same country as the company headquarters. It could be very interesting to see whether this is caused by company policies and contract conditions, as many job ads are published as remote within a specific country/state, or by employees’ decisions.
+
+
 
