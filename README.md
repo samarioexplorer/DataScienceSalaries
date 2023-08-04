@@ -44,6 +44,7 @@ Questions
 18. How many different titles are there in the dataset and what data position is the most frequent?
 19. Is the average salary higher for bigger companies? 
 20. How many data-related positions there are by company size?
-21. Does large companies have more people working in senior and executive positions than small companies?
+21. Do large companies have more people working in senior and executive positions than small companies?
 22. How many people are in a different country than it is the company headquarters?
+23. Do bigger companies allow remote positions more than small or medium companies? 
 
